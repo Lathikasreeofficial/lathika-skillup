@@ -1,4 +1,4 @@
-# Lathika-NM-APPLIED DATA SCIENCE.
+# Lathika Sree-NM-APPLIED DATA SCIENCE.
 PROJECT TITLE: CREDIT CARD FRAUD DETECTION.
 
 DATASET:https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
